@@ -1,20 +1,20 @@
 ### 📂 **Repository Structure**
 ```
 venture-smart-contracts/
-│── contracts/              # Solidity smart contracts
-│   ├── VNTToken.sol        # $VNT ERC-20 token contract
-│   ├── Staking.sol         # Staking contract for rewards
-│   ├── VentureArbitrage.sol # Arbitrage execution contract
-│   ├── VentureLending.sol  # DeFi borrowing and lending
+│── contracts/                # Solidity smart contracts
+│   ├── VNTToken.sol          # $VNT ERC-20 token contract
+│   ├── Staking.sol           # Staking contract for rewards
+│   ├── VentureArbitrage.sol  # Arbitrage execution contract
+│   ├── VentureLending.sol    # DeFi borrowing and lending
 │   ├── VentureGovernance.sol # Governance contract for voting
-│── scripts/                # Deployment scripts
-│   ├── deploy.js           # Script to deploy contracts on Ethereum
-│── test/                   # Testing and simulation files
-│── README.md               # Project overview
-│── hardhat.config.js       # Hardhat configuration
-│── package.json            # Node.js dependencies
-│── .env                    # Environment variables (private keys, API keys)
-│── LICENSE                 # Open-source license
+│── scripts/                  # Deployment scripts
+│   ├── deploy.js             # Script to deploy contracts on Ethereum
+│── test/                     # Testing and simulation files
+│── README.md                 # Project overview
+│── hardhat.config.js         # Hardhat configuration
+│── package.json              # Node.js dependencies
+│── .env                      # Environment variables (private keys, API keys)
+│── LICENSE                   # Open-source license
 ```
 
 ---
