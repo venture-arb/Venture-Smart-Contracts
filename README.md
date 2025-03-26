@@ -80,9 +80,9 @@ npm install
 npx hardhat compile
 ```
 
-### **4️⃣ Deploy to Ethereum Testnet**
+### **4️⃣ Deploy to Binance Testnet**
 ```sh
-npx hardhat run scripts/deploy.js --network goerli
+npx hardhat run scripts/deploy.js --network bsctestnet
 ```
 
 ---
